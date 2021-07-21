@@ -3,7 +3,7 @@
 
 # lint相关检查
 # 执行vue-cli-servie lint
-npm run lint && git add .
+# npm run lint && git add .
 
 # 通过lint-staged配置
-# npx lint-staged
+npx lint-staged
