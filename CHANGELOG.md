@@ -1,3 +1,33 @@
+# [3.0.0](https://github.com/eyunhua/code-commit-check/compare/2.0.0...3.0.0) (2021-07-22)
+
+
+### Bug Fixes
+
+* **test feat:** test fix scope ([72d4d0b](https://github.com/eyunhua/code-commit-check/commit/72d4d0b0055644398d51657b2e8bb49ad066c487))
+
+
+### Code Refactoring
+
+* **test-refactor:** test refactor ([cc7e4c8](https://github.com/eyunhua/code-commit-check/commit/cc7e4c8379e15be5b25e9c11bd0dbd481a4ae56c)), closes [#123](https://github.com/eyunhua/code-commit-check/issues/123)
+
+
+### Features
+
+* **test feat:** test fix ([56361b6](https://github.com/eyunhua/code-commit-check/commit/56361b60a49404c1536f9d0fb9babb361d361d79))
+* **test feat:** test same feat and fix ([1f8ee1e](https://github.com/eyunhua/code-commit-check/commit/1f8ee1eec2f26687cb4998a7a1ea7d38c878401c))
+
+
+### Reverts
+
+* **test-revert:** test revert ([2568041](https://github.com/eyunhua/code-commit-check/commit/2568041ad24a0c16770c4d0a6eb958004b0d718b))
+
+
+### BREAKING CHANGES
+
+* **test-refactor:** test refactor breaking changes in body
+
+
+
 # [2.0.0](https://github.com/eyunhua/code-commit-check/compare/1.0.0...2.0.0) (2021-07-21)
 
 
