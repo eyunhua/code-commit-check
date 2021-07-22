@@ -6,9 +6,9 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "commit": "commit",
-    "commit-cz": "git-cz",
-    "commit-cz-conventional": "git cz",
+    "commit": "git add . && commit",
+    "commit-cz": "git add . && git-cz",
+    "commit-cz-conventional": "git add . && git cz",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0"
   },
   "dependencies": {
