@@ -1,3 +1,7 @@
+# [3.0.0](https://github.com/eyunhua/code-commit-check/compare/2.0.0...3.0.0) (2021-07-22)
+
+
+
 # [2.0.0](https://github.com/eyunhua/code-commit-check/compare/1.0.0...2.0.0) (2021-07-21)
 
 

@@ -1,6 +1,6 @@
 {
   "name": "code-commit-check",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -50,14 +50,14 @@
   },
   "config": {
     "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog",
-      "path2": "@commitlint/cz-commitlint"
+      "path": "./node_modules/cz-conventional-changelog"
     }
   },
   "lint-staged": {
     "*.{js,vue}": [
       "vue-cli-service lint",
       "git add"
-    ]
+    ],
+    "*.js": "eslint --cache --fix"
   }
 }
