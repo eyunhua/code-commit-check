@@ -1,5 +1,5 @@
 <template>
-  <router-view/>123456
+  <router-view/>1234567
 </template>
 
 <style>
